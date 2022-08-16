@@ -41816,7 +41816,7 @@ s=M.cu(i,new K.uy(new L.kg("web/assets/images/img_main.jpg",i,i),90,i),i,i,i,i,s
 r=O.V2("Harsh Bangari Rawat",A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,32,i,i,i,i,!0,i,i,i,i,i,i),i)
 q=F.bC(a,!1).a.a<800?F.bC(a,!1).a.a*0.8:F.bC(a,!1).a.a*0.5
 q=M.cu(i,O.V2("Developer by choice. Seeking a collaborative community to develop enchanting apps.",A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,16,i,i,i,i,!0,i,i,i,i,i,i),C.fA),i,i,i,i,i,i,new V.aA(0,8,0,0),i,q)
-p=O.V2("#Android #Python #Flutter #Node #Unity",A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,16,i,i,i,i,!0,i,i,i,i,i,i),i)
+p=O.V2("#Android #Flutter #Node #ReactJs #Python",A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,16,i,i,i,i,!0,i,i,i,i,i,i),i)
 o=M.cu(i,L.Yf("Connect with me",i,A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,i,i)),i,i,i,i,i,new V.aA(0,32,0,0),i,i,i)
 n=F.bC(a,!1).a
 m=t.a
@@ -41825,19 +41825,19 @@ l=M.cu(i,L.Yf("Inspired by",i,A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,i,i,i,i,i,!0,i,i,i,i,
 k=F.bC(a,!1).a.a<800?150:200
 return new M.pG(new T.kq(C.a4,i,i,T.yY(C.id,H.b([new T.p2(1,!1,g,i),M.cu(i,T.Y4(H.b([new T.ed(new V.aA(32,32,32,32),T.WD(H.b([new T.ed(new V.aA(0,8,0,0),s,i),new T.ed(new V.aA(0,8,0,0),r,i),q,new T.ed(new V.aA(0,8,0,0),p,i),o,n,new T.ed(new V.aA(0,32,0,0),T.WD(H.b([l,M.cu(i,U.oh("web/assets/images/logo_google_developers.png",i,C.ij),i,i,i,i,i,i,i,i,k)],m),C.it,C.oS),i)],m),C.it,C.jw),i)],m),C.jw),h,i,i,i,i,i,i,i,i)],m),C.hY),i),i)}}
 X.JA.prototype={
-$0:function(){$.ix().b8("open",["shorturl.at/bgy04"])},
+$0:function(){$.ix().b8("open",["https://www.facebook.com/harsh.bangari/"])},
 $S:0}
 X.JB.prototype={
-$0:function(){$.ix().b8("open",["shorturl.at/bgy04"])},
+$0:function(){$.ix().b8("open",["https://www.linkedin.com/in/harshbangari/"])},
 $S:0}
 X.JC.prototype={
-$0:function(){$.ix().b8("open",["shorturl.at/citI1"])},
+$0:function(){$.ix().b8("open",["https://twitter.com/bangari_harsh"])},
 $S:0}
 X.JD.prototype={
-$0:function(){$.ix().b8("open",["shorturl.at/myAL3"])},
+$0:function(){$.ix().b8("open",["https://www.instagram.com/harsh_bangari/"])},
 $S:0}
 F.wO.prototype={
-P:function(a){return new S.oH(new X.wj(null),"Flutter Demo",X.Yj(null,C.lW,X.a3D()),null)}}
+P:function(a){return new S.oH(new X.wj(null),"Harsh Bangari",X.Yj(null,C.lW,X.a3D()),null)}}
 E.m3.prototype={
 gl:function(a){return this.b},
 h:function(a,b){if(b>=this.b)throw H.c(P.aW(b,this,null,null,null))

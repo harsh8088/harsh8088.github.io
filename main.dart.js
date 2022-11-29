@@ -41812,7 +41812,7 @@ P:function(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=F.bC(a,!1).a,g=F.bC(a,!1).a
 g=M.cu(i,U.oh("web/assets/images/laptop.jpg",i,C.ij),i,i,i,i,h.b,i,i,i,g.a)
 h=P.b5(102,158,158,158)
 s=F.bC(a,!1).a.a<800?100:150
-s=M.cu(i,new K.uy(new L.kg("web/assets/images/img_main.jpg",i,i),90,i),i,i,i,i,s,i,i,i,i)
+s=M.cu(i,new K.uy(new L.kg("web/assets/images/img_main.jpeg",i,i),90,i),i,i,i,i,s,i,i,i,i)
 r=O.V2("Harsh Bangari Rawat",A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,32,i,i,i,i,!0,i,i,i,i,i,i),i)
 q=F.bC(a,!1).a.a<800?F.bC(a,!1).a.a*0.8:F.bC(a,!1).a.a*0.5
 q=M.cu(i,O.V2("Developer by choice. Seeking a collaborative community to develop enchanting apps.",A.fZ(i,i,C.j,i,i,i,i,i,i,i,i,16,i,i,i,i,!0,i,i,i,i,i,i),C.fA),i,i,i,i,i,i,new V.aA(0,8,0,0),i,q)
